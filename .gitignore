@@ -161,3 +161,25 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 notebooks/data
+├── .streamlit
+│   └── config.toml
+├── .vscode
+│   └── settings.json
+├── .github
+│   └── workflows
+│       └── unittests.yml
+├── requirements.txt
+├── README.md
+├── notebooks
+│   ├── __init__.py
+│   ├── example.ipynb
+│   └── README.md
+├── tests
+│   └── __init__.py
+├── app
+│   ├── __init__.py
+│   ├── main.py
+│   └── utils.py
+└── scripts
+	├── __init__.py
+	└── README.md
