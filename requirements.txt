@@ -4,3 +4,5 @@ seaborn
 plotly 
 numpy
 windrose
+streamlit
+gdown
